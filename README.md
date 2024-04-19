@@ -1,2 +1,2 @@
 # hashbreaker
-Crack hashes with a wordlist
+Takes a wordlists and tries to crack the hashes
